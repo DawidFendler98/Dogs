@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dogs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dog_name">Dog Name</string>
+    <string name="dog_purpose">Dog Purpose</string>
+    <string name="dog_temperament">Dog Temperament</string>
+    <string name="dog_lifespan">Dog Lifespan</string>
+    <string name="an_error_occurred_while_loading_data">An error occurred while loading data</string>
+    <string name="lifespan">Lifespan</string>
+</resources>
